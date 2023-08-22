@@ -3,5 +3,10 @@ p {
 }
 
 #idtest {
-    color: yellow;
+    color: darkgoldenrod;
+}
+
+.specialtagp{
+    font-style: italic;
+    border: 1px;
 }
