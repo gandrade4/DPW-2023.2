@@ -1,5 +1,8 @@
 p {
     color: purple;
+    ::first-letter{
+        color: darkgoldenrod;
+    }
 }
 
 #idtest {
@@ -14,10 +17,4 @@ p {
 a:hover{
     cursor: pointer;
     background-color: green;
-}
-
-#dinamic, p {
-    ::first-letter{
-        color: darkgoldenrod;
-    }
 }
