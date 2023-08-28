@@ -10,3 +10,7 @@ p {
     font-style: italic;
     background-color: darkgoldenrod;
 }
+
+:hover{
+    cursor: pointer;
+}
