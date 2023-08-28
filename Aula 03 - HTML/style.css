@@ -16,8 +16,8 @@ a:hover{
     background-color: green;
 }
 
-#dinamic {
+#dinamic, p {
     ::first-letter{
-        color: green;
+        color: darkgoldenrod;
     }
 }
