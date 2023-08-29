@@ -17,4 +17,6 @@ p {
 a:hover{
     cursor: pointer;
     background-color: green;
+    font-style: italic;
+    color: gray;
 }
