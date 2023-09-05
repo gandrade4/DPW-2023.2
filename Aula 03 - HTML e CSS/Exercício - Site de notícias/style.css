@@ -16,4 +16,14 @@ h2,h3{
 
 .date{
     font-size: 14px;
+    font-weight: italic;
+    color: gray;
+}
+
+.odd{
+    color: #F2F2F2;
+}
+
+h3 > a{
+    color: red;
 }
