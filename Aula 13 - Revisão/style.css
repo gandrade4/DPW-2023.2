@@ -1,3 +1,9 @@
 main {
     max-width: 968px;
 }
+
+ul {
+    list-style: none;
+}
+
+input[type]
