@@ -2,9 +2,9 @@
 
 ## TRABALHO FINAL
 ### EQUIPE:
-470679 - Carlos Eduardo Almeida Feitosa
-427572 - Francisca Milena Freire de Sousa
-421599 - Gabriel Leitão de Andrade
+- 470679 - Carlos Eduardo Almeida Feitosa
+- 427572 - Francisca Milena Freire de Sousa
+- 421599 - Gabriel Leitão de Andrade
 
 ### PROPOSTA
 Site de rastreamentos de pacotes dos correios.
