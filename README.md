@@ -9,7 +9,7 @@
 - 421599 - Gabriel Leitão de Andrade
 
 ### PROPOSTA
-Mimos - Site de rastreamentos de pacotes dos correios.
+Mimos - Site de rastreamento de pacotes dos correios.
 
 ### USUÁRIOS
 - Remetente
@@ -22,7 +22,13 @@ Mimos - Site de rastreamentos de pacotes dos correios.
 - Acompanhar status de uma entrega
 - Histórico de ações
 - Alterar o status de um pacote
+Entidade 	Criação 	Leitura 	Atualização 	Remoção
 
-
+### OPERAÇÕES IMPLEMENTADAS
+| Entidade | Criação | Leitura | Atualização | Remoção
+| :---:   | :---: | :---: | :---: | :---: |
+| Remetente | x | x | | x |
+| Destinatário | x | x | | x | 
+| Correios | x | | x | |
 
 
